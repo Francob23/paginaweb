@@ -3,4 +3,10 @@ body{
 }
 h1{
     color: blue;
+    text-align: center;
+    font-size: 20px;
+}
+p{
+    color: blueviolet;
+    text-align: center;
 }
